@@ -1,0 +1,53 @@
+body {
+  width: 80%;
+  max-width: 800px;
+  margin: 3% auto;
+  padding: 10px;
+  background: #00C000;
+  font-family: Raleway;
+}
+
+#intro {
+  text-transform: uppercase;
+  font-family: "Press Start 2P";
+  text-align: center;
+  background: #00C000;
+  margin: 0 0;
+  padding: 10px 10px 20px 10px;
+  border-bottom: 2px solid black;
+}
+
+h1 {
+  font-size: 28px;
+}
+
+#ipsum {
+  padding: 10px 10px 10px 10px;
+}
+
+#content {
+  font-size: 16px;
+  border: 10px solid black;
+  background: white;
+  padding: 0 0 0 0;
+}
+
+input {
+  width: 40px;
+  text-align: center;
+  font-family: "Press Start 2P";
+  padding: 5px;
+  border: 4px solid #E0E000;
+  color: #E0E000;
+  outline: none;
+  background: #00C000;
+}
+
+button {
+  background: #00C000;
+  border: 4px solid #E0E000;
+  color: #E0E000;
+  outline: none;
+  padding: 5px;
+  font-family: "Press Start 2P";
+}
